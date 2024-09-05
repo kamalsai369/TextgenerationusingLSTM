@@ -4,6 +4,3 @@ scikit-learn
 tensorflow
 requests
 string
-
-
--e .

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: LSTM-Text-Generation
+Version: 0.0.1
+Author: Sai
+Author-email: tillarikamalsai@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
+Requires-Dist: requests
+Requires-Dist: string

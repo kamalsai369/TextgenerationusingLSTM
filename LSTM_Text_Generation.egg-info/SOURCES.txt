@@ -1,0 +1,9 @@
+setup.py
+LSTM_Text_Generation.egg-info/PKG-INFO
+LSTM_Text_Generation.egg-info/SOURCES.txt
+LSTM_Text_Generation.egg-info/dependency_links.txt
+LSTM_Text_Generation.egg-info/requires.txt
+LSTM_Text_Generation.egg-info/top_level.txt
+TextGeneration/__init__.py
+TextGeneration/Datasets/__init__.py
+notebook/__init__.py
